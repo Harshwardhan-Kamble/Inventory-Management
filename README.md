@@ -115,4 +115,4 @@ npm test
 ## 📚 Additional Resources
 
 For more detailed API documentation, visit:
-[Postman Documentation](https://documenter.getpostman.com/view/36745142/2sB3QFQrkx)
+[Postman Documentation](https://documenter.getpostman.com/view/48880694/2sB3QFPXN9)
